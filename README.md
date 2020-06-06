@@ -60,7 +60,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 - [Knex](http://knexjs.org/)
 
 ## <img alt="License" src=".github/nodejs-logo.svg" width="15px"> Backend
-gif aqui
+![](.github/backend.gif)
 
 ## <img alt="License" src=".github/React-icon.svg" width="30px"> Frontend
 gif aqui
