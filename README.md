@@ -44,7 +44,7 @@ Projeto desenvolvido durante a Next Level Week promovida pela Rocketseat.
 Com o objetivo de aprendizagem e melhoria dos conhecimentos em programação, desenvolvemos um Marketplace para conectar Pontos de coleta de resíduos com pessoas que precisam descarta-los.
 
 
-## <img alt="License" src=".github/nodejs-logo.svg" width="17px"> <img alt="License" src=".github/React-icon.svg" width="30px"> Tecnologias  🚀
+## <img alt="nodejs" src=".github/nodejs-logo.svg" width="17px"> <img alt="react" src=".github/React-icon.svg" width="30px"> Tecnologias  🚀
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
@@ -59,16 +59,16 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 - [Express](https://expressjs.com/)
 - [Knex](http://knexjs.org/)
 
-## <img alt="License" src=".github/nodejs-logo.svg" width="15px"> Backend
-![](.github/backend.gif)
+## <img alt="nodejs" src=".github/nodejs-logo.svg" width="15px"> Backend
+![](.github/eColeta-backend.gif)
 
-## <img alt="License" src=".github/React-icon.svg" width="30px"> Frontend
-gif aqui
+## <img alt="react" src=".github/React-icon.svg" width="30px"> Frontend
+![](.github/eColeta-web.gif)
 
-## <img alt="License" src=".github/React-icon.svg" width="30px"> Mobile
-gif aqui
+## <img alt="react" src=".github/React-icon.svg" width="30px"> Mobile
+![](.github/eColeta-mobile.gif)
 
-## <img alt="License" src=".github/install.svg" width="20px"> Instalação
+## <img alt="install" src=".github/install.svg" width="20px"> Instalação
 ```bash
 # Clone
 $ git clone https://github.com/fredimartins/eColeta.git
