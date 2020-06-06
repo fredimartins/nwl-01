@@ -2,6 +2,7 @@
   <img alt="eColeta Logo" src=".github/Logo.svg" width="250px" />
   <br/>
   Marketplace de coleta de resíduos.
+  <br/>
   <img alt="eColeta" src=".github/Logo2.svg" width="250px" />
 </h1>
 
