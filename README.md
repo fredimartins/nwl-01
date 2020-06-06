@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--tecnologias--">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -54,7 +54,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 - [API IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)
 - [React Dropzone](react-dropzone)
 - [Leaflet](https://leafletjs.com/examples/quick-start/)
-- [Celebrate]
+- [Celebrate](https://github.com/arb/celebrate)
+- [Express](https://expressjs.com/)
+- [Knex](http://knexjs.org/)
 
 ## <img alt="License" src=".github/nodejs-logo.svg" width="15px"> Backend
 gif aqui
