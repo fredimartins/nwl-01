@@ -25,14 +25,13 @@
 </p>
 
 <p align="center">
-  <a href="#-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalação">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-license">License</a>
 </p>
 
 <br>
@@ -44,7 +43,7 @@ Projeto desenvolvido durante a Next Level Week promovida pela Rocketseat.
 Com o objetivo de aprendizagem e melhoria dos conhecimentos em programação, desenvolvemos um Marketplace para conectar Pontos de coleta de resíduos com pessoas que precisam descarta-los.
 
 
-## <img alt="License" src=".github/nodejs-logo.svg" width="17px"> <img alt="License" src=".github/React-icon.svg" width="30px"> Tecnologias Utilizadas 🚀
+## <img alt="License" src=".github/nodejs-logo.svg" width="17px"> <img alt="License" src=".github/React-icon.svg" width="30px"> Tecnologias  🚀
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
